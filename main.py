@@ -1,4 +1,3 @@
-#cnt_category - общее кол-во категорий, cnt_unique_item - общее кол-во уникальных продуктов
 class Category:
     cnt_category = 0
     cnt_unique_item = 0
