@@ -1,4 +1,3 @@
-#cnt_category - общее кол-во категорий, cnt_unique_item - общее кол-во уникальных продуктов
 import pytest
 
 from main import Category, Product
